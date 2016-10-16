@@ -1,0 +1,10 @@
+<h3 align="center">
+ABSTRAK
+</h3>
+
+Teknologi komputer saat ini terus menunjang kehidupan manusia, khususnya dalam dunia kedokteran dan perkembangan penyakit dalam semakin berkembang setiap tahunnya, baik dari perkembangan jenis penyakit maupun jumlah penderitanya. Untuk menangani masalah penyakit tersebut dibutuhkan seorang dokter spesialis. Permasalahan yang muncul adalah terbatasnya jumlah, waktu, dan tenaga dari seorang dokter, selain masalah penyakit dan kurangnya tenaga seorang dokter, masalah lain yang muncul adalah kurangnya pengetahuan seorang penderita penyakit terhadap pangan yang sebaiknya di konsumsi. Sehingga membutuhkan suatu aplikasi sistem untuk mendiagnosa penyakit dan memberikan rekomendasi pangan yang sebaiknya dikonsumsi, dimana sistem ini akan memudahkan dan membantu user dalam mendiagnosa penyakit serta menentukan solusi dari penyakit tersebut.
+Sistem pakar adalah sistem yang berusaha mengadopsi pengetahuan manusia ke komputer, Agar komputer dapat menyelesaikan masalah seperti yang biasa dilakukan oleh pakar. Sistem Pakar ini juga dapat membantu teknisi dalam mendapatkan solusi dengan cepat dan dapat menghemat waktu. 
+Sistem yang akan dibuat adalah “aplikasi sistem pakar penentuan jenis makanan berdasarkan penyakit pada sistem pencernaan serta mulut dan tenggorokan pada manusia”. Sistem pakar ini berbasis web menggunakan pemrograman PHP dan SQL Server sebagai data base.   Dengan metode  inferensi yang digunakan adalah forward chaining, yaitu proses inferensi  yang memulai pencarian dari premis   atau data masukan berupa gejala yang diderita. Hasil pengujian yang dilakukan oleh pakar menghasilkan bahwa materi pengetahuan yang dipakai dalam sistem ini berdasarkan pengetahuan pakar. 
+
+
+**Kata Kunci : Sistem Pencernaan, PHP, Sistem Pakar, SQL Server.**  
