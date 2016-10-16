@@ -3,7 +3,7 @@ APLIKASI SISTEM PAKAR PENENTUAN JENIS MAKANAN BERDASARKAN PENYAKIT PADA SISTEM P
 </h3>
 
 <p align="center">
-  <img src="https://github.com/ProposalProyek2/Aplikasi-Sistem-Pakar-Sub-Modul-Interaksi-User/blob/master/Aplikasi-Sistem-Pakar-Sub-Modul-Interaksi-User/img/proyek.png">
+  <img src="https://github.com/ProposalProyek2/Sistem-Pakar-Sub-Modul-Interaksi-User/blob/master/img/proyek.png">
 </p>
 
 BIGRAPHY
