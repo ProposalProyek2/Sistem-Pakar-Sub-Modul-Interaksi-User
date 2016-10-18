@@ -6,7 +6,7 @@ APLIKASI SISTEM PAKAR PENENTUAN JENIS MAKANAN BERDASARKAN PENYAKIT PADA SISTEM P
   <img src="https://github.com/ProposalProyek2/Sistem-Pakar-Sub-Modul-Interaksi-User/blob/master/img/proyek.png">
 </p>
 
-BIGRAPHY
+BIOGRAPHY
 -------
 
 > - Fullname 				 : Nadia Ayu Lestari Arifin
